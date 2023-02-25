@@ -6,7 +6,7 @@ aiofile
 yt-dlp
 aiofiles
 youtube-search-python
-speedtest-cli
+git+ https://github.com/a72d/speedtest-cli
 numpy
 flask
 flask_restful
